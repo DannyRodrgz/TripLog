@@ -719,11 +719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danny\\Source\\Repos\\TripLog\\TripLog\\TripLog\\TripLog.iOS\\TripLog.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Danny\\source\\repos\\TripLog\\TripLog\\TripLog\\TripLog.iOS\\TripLog.iOS.csproj",
       "projectName": "TripLog.iOS",
-      "projectPath": "C:\\Users\\Danny\\Source\\Repos\\TripLog\\TripLog\\TripLog\\TripLog.iOS\\TripLog.iOS.csproj",
+      "projectPath": "C:\\Users\\Danny\\source\\repos\\TripLog\\TripLog\\TripLog\\TripLog.iOS\\TripLog.iOS.csproj",
       "packagesPath": "C:\\Users\\Danny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danny\\Source\\Repos\\TripLog\\TripLog\\TripLog\\TripLog.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Danny\\source\\repos\\TripLog\\TripLog\\TripLog\\TripLog.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -740,8 +740,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Danny\\Source\\Repos\\TripLog\\TripLog\\TripLog\\TripLog\\TripLog.csproj": {
-              "projectPath": "C:\\Users\\Danny\\Source\\Repos\\TripLog\\TripLog\\TripLog\\TripLog\\TripLog.csproj"
+            "C:\\Users\\Danny\\source\\repos\\TripLog\\TripLog\\TripLog\\TripLog\\TripLog.csproj": {
+              "projectPath": "C:\\Users\\Danny\\source\\repos\\TripLog\\TripLog\\TripLog\\TripLog\\TripLog.csproj"
             }
           }
         }
